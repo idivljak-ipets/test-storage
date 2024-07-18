@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "vet",
+        "name": "iPets vet"
+      },
+      "geometry": {
+        "coordinates": [
+          19.80636,
+          45.251665
+        ],
+        "type": "Point"
+      },
+      "id": "12564730e4b0dca9315535cd803efbf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "vet",
+        "name": "Dr. DOG"
+      },
+      "geometry": {
+        "coordinates": [
+          19.825268,
+          45.260254
+        ],
+        "type": "Point"
+      },
+      "id": "5f1b664b009b5f0aff66c2cacc807d02"
+    }
+  ],
+  "type": "FeatureCollection"
+}

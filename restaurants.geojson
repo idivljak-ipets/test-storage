@@ -1,0 +1,50 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Portofino"
+      },
+      "geometry": {
+        "coordinates": [
+          19.837459,
+          45.246596
+        ],
+        "type": "Point"
+      },
+      "id": "4e0d476e7e07ccf6aea8c48a9f5299d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Fenjer"
+      },
+      "geometry": {
+        "coordinates": [
+          19.841646,
+          45.249105
+        ],
+        "type": "Point"
+      },
+      "id": "9355113ed216bf5d1e0cfac2bff5456f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "De Gusto"
+      },
+      "geometry": {
+        "coordinates": [
+          19.836488,
+          45.250504
+        ],
+        "type": "Point"
+      },
+      "id": "cf445769f1449bb72e85232032865cb1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
