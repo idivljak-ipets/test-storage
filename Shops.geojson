@@ -1,0 +1,50 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shop",
+        "name": "Robo's shop"
+      },
+      "geometry": {
+        "coordinates": [
+          19.841902,
+          45.255739
+        ],
+        "type": "Point"
+      },
+      "id": "4c92c9008fe549b9d175ec420d021eb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shop",
+        "name": "Maza i Lunja"
+      },
+      "geometry": {
+        "coordinates": [
+          19.84761,
+          45.242898
+        ],
+        "type": "Point"
+      },
+      "id": "633382858758cfa7d45f3e5b2caea976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shop",
+        "name": "Shitshow shop"
+      },
+      "geometry": {
+        "coordinates": [
+          19.832461,
+          45.245678
+        ],
+        "type": "Point"
+      },
+      "id": "7db2aa9a1712fc7ea8ae899daf468a16"
+    }
+  ],
+  "type": "FeatureCollection"
+}
